@@ -1,0 +1,11 @@
+{
+  "name": "petid",
+  "version": "1.1.0",
+  "description": "Sistema para cadastro de donos e seus animais",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TADS",
+  "license": "MIT"
+}
